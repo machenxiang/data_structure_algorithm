@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mcx/桌面/算法与数据结构/c++基础/main.cpp
+iostream
+-
+string
+-
+vector
+-
+cstdlib
+-
+stdexcept
+-
+
